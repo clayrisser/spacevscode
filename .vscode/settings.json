@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "lib": false
+  },
+  "search.exclude": {
+    "lib": true
+  },
+  "typescript.tsc.autoDetect": "off"
+}
