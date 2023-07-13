@@ -2,6 +2,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/codejamninja/spacevscode.svg?style=social&label=Stars)](https://github.com/codejamninja/spacevscode)
 
+![](assets/spacevscode.png)
+
 > spacemacs inspired vscode
 
 Please ★ this repo if you found it useful ★ ★ ★
